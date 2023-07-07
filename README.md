@@ -23,8 +23,7 @@ connectmedicine/
         <section>
             <h1>Welcome to ConnectMedicine</h1>
             <p>
-                ConnectMedicine is an organization dedicated to helping doctors
-                research different medical cases.
+                ConnectMedicine is an organization dedicated to helping medical professionals and  students around the world connect help each other delivery medicine globally
             </p>
         </section>
     </main>
