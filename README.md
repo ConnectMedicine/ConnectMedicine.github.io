@@ -1,12 +1,4 @@
 connectmedicine/
-  |- index.html
-  |- about.html
-  |- services.html
-  |- social.html
-  |- css/
-      |- style.css
-  |- img/
-      |- logo.png
 <!DOCTYPE html>
 <html>
 <head>
